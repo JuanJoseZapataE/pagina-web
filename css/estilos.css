@@ -548,6 +548,10 @@ p{
         font-size: 14px; 
     }
 
+    .coffee-1{
+        width: 100%;
+    }
+
     .container {
         padding: 0 10px; 
     }
