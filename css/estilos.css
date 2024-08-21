@@ -546,15 +546,19 @@ p{
     
     body {
         font-size: 14px; 
+        overflow-x: hidden;
     }
 
     .coffee-1{
         width: 100%;
     }
 
+
     .container {
         padding: 0 10px; 
     }
+
+
 
     
     .menu {
@@ -596,9 +600,15 @@ p{
     }
 
     /* Header */
-    .header {
-        min-height: auto; 
-        padding: 20px 0; 
+    .header{
+        background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(img/celular.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        min-height: 90vh;
+        display: flex;
+        align-items:center;
     }
 
     .header-content {
