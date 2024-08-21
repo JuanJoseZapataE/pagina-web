@@ -202,12 +202,9 @@ body{
 }
 
 
-.coffee-1{
-    width: 30%;
-}
 
 .coffee-1 img{
-    width: 20em;
+    width: 19.5em;
     height: 200px;
 }
 
@@ -363,9 +360,6 @@ p{
     justify-content: space-between;
 }
 
-.blog-1{
-    padding: 15px 55px;
-}
 
 .blog-1 img{
     width: 250px;
