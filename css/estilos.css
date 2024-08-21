@@ -4,10 +4,8 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    box-sizing: border-box;
 }
 
 
@@ -236,6 +234,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     padding: 100px 0;
+    box-sizing: border-box;
 }
 
 .Asgard{
@@ -273,6 +272,7 @@ body{
 
 .services-content{
     text-align: center;
+    box-sizing: border-box;
 }
 
 .services-content h2{
@@ -303,7 +303,7 @@ body{
 }
 
 .services-1 img{
-    width: 25em;
+    width: 19.9em;
     height: 250px;
     margin-bottom: 15px;
 }
